@@ -1,0 +1,15 @@
+{
+  "name": "map-layer-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "NimitzDEV",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "inquirer": "^3.2.1",
+    "winston": "^2.3.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

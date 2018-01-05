@@ -1,0 +1,12 @@
+{
+  "url": [
+    "http://mt0.google.cn/vt/lyrs=m&x={x}&y={y}&z={z}",
+    "http://mt1.google.cn/vt/lyrs=m&x={x}&y={y}&z={z}",
+    "http://mt2.google.cn/vt/lyrs=m&x={x}&y={y}&z={z}",
+    "http://mt3.google.cn/vt/lyrs=m&x={x}&y={y}&z={z}"
+  ],
+  "query": {},
+  "dir": "B:/map/",
+  "downloadStart": 0,
+  "downloadEnd": 3
+}

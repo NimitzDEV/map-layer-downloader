@@ -1,0 +1,15 @@
+{
+  "url": [
+    "https://a.tiles.mapbox.com/v4/mapbox.emerald/{z}/{x}/{y}.png",
+    "https://b.tiles.mapbox.com/v4/mapbox.emerald/{z}/{x}/{y}.png",
+    "https://c.tiles.mapbox.com/v4/mapbox.emerald/{z}/{x}/{y}.png",
+    "https://d.tiles.mapbox.com/v4/mapbox.emerald/{z}/{x}/{y}.png"
+  ],
+  "query": {
+    "access_token":
+      ""
+  },
+  "dir": "B:/Map/Mapbox13",
+  "downloadStart": 13,
+  "downloadEnd": 15
+}

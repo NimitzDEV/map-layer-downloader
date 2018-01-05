@@ -1,0 +1,11 @@
+{
+  "url": [
+    "http://a.tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "http://b.tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "http://c.tile.openstreetmap.org/{z}/{x}/{y}.png"
+  ],
+  "query": {},
+  "dir": "B:/Map/OpenStreetMap",
+  "downloadStart": 0,
+  "downloadEnd": 12
+}
